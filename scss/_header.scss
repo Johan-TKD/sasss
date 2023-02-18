@@ -1,5 +1,5 @@
 header{
-    background-image: $backgronud-color;
+    background-image: linear-gradient(to top, darkblue, darkgreen);
     font-size: 20px;
     nav{
         max-width: 1200px;
@@ -11,7 +11,7 @@ header{
             li{
                 margin: 0 10px;
                 a{
-                    color: red;
+                    color: white;
                     text-decoration: none;
                 }
             }
