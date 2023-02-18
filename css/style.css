@@ -1,0 +1,1 @@
+*{margin:0;padding:0}header{background-image:linear-gradient(to top, darkblue, darkgreen);font-size:20px}header nav{max-width:1200px;margin:0 auto;padding:25px 0}header nav ul{list-style:none;display:flex}header nav ul li{margin:0 10px}header nav ul li a{color:#fff;text-decoration:none}
